@@ -1,8 +1,6 @@
-# AcmeCorp Merge-Style Connector — Technical Blueprint
+# AcmeCorp Merge-Style Connector 
 
-> **Project type:** Production-grade ERP integration connector
-> **Target:** B2B SaaS platforms that need normalised supply-chain data from customer ERPs
-> **Date:** 2026-03-16
+
 
 ---
 
