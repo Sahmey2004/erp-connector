@@ -1,0 +1,21 @@
+{
+  "name": "acmecorp-connector",
+  "version": "1.0.0",
+  "description": "Merge-style ERP connector for AcmeCorp (supply chain)",
+  "main": "connector/acmecorp.js",
+  "scripts": {
+    "test": "npx ts-node test-runner.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
